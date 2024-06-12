@@ -1,0 +1,6 @@
+﻿,Unnamed: 0,Step,Selected Workload,Number of Represented Workload-Expcific Influences,Information Loss Within Remaining Influences,Information Loss,Information Loss Reduction,Unfinished Options,Unrepresented Envs,Expected Information Loss Remaining Per Option Per Env,Relative Number of Represented Workload-Expcific Influences,newStep
+0,0,0,No workloads,,Infinity,Infinity,,11,13,,,-1
+1,1,1,uiq2-16.bin,133,9.138446838676716,16.11988334192541,,3,6,0.9138446838676714,0.07154384077461,0
+2,2,2,artificl.tar,6,3.1401573754773766,9.09984401131106,5.998289463199339,2,3,1.7531279799213977,0.0032275416890801,1
+3,3,3,large.tar,2,1.062081052270208,3.860585845870944,2.078076323207169,2,2,2.100654244403918,0.0010758472296933,2
+4,4,4,uiq2-4.bin,2,0,1.7720426398447096,1.062081052270208,0,0,0,0.0010758472296933,3
